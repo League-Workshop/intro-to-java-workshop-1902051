@@ -10,6 +10,48 @@ public class MyFirstJavaProgram {
 		// START HERE
 	
 		
-		
+	Robot person1 = new Robot ();
+	
+	person1.setSpeed(9345);
+	person1.sparkle();
+person1.penDown();
+	person1.move(90);
+	person1.turn(90);
+person1.move(90);
+person1.turn(90);
+person1.move(90);
+person1.turn(90);
+person1.move(90);
+person1.turn(90);
+person1.move(90);
+person1.turn(150);
+
+
+
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
